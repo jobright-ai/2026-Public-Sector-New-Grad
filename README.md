@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tulsa County](http://tulsacounty.org)** | **[Data Entry Clerk (Election Board)](https://jobright.ai/jobs/info/694c1b7c5d731211347091eb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tulsa County Election Board | On Site | Dec 24 |
 | **[Keystone Human Services](https://www.khs.org/#wow-modal-id-2)** | **[Intellectual Disability - Program Supervisor](https://jobright.ai/jobs/info/694c08411a572a617dde4dca?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Whitehall, PA | On Site | Dec 24 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Program Specialist - Lee, Collier, or Charlotte County, FL](https://jobright.ai/jobs/info/694befd4d64ebf28d8219d23?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Dec 24 |
 | **[ECU Health](http://www.ECUHealth.org)** | **[Internal Travel Registered Nurse (RN) - Cancer Services](https://jobright.ai/jobs/info/68a3009b403ad4363b1be568?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greenville, NC | On Site | Dec 24 |
@@ -269,6 +270,4 @@ For a complete list, click the following sortable link below:
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ASSOCIATE GOVERNMENTAL PROGRAM ANALYST](https://jobright.ai/jobs/info/6943975f50bbaf7650559d4a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | On Site | Dec 17 |
 | ↳ | **[ASSOCIATE GOVERNMENTAL PROGRAM ANALYST](https://jobright.ai/jobs/info/6943937950bbaf76505599b6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Fresno, CA | On Site | Dec 17 |
 | **[Salvation Army ARC](http://salvationarmy.org)** | **[Program Coordinator](https://jobright.ai/jobs/info/694382cc94730b739876a081?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lebanon, PA | On Site | Dec 17 |
-| **[LA Family Housing](https://lafh.org)** | **[Peer Advocate (Weekend)](https://jobright.ai/jobs/info/6909442c4a1b456627afeb6c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | On Site | Dec 17 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Collier County Anchor Steward](https://jobright.ai/jobs/info/69435c6ddd382f5f56695c44?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Naples, FL | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
