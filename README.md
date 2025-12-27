@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Wyoming](http://www.wyo.gov)** | **[Healthcare Preparedness Program Manager 2025-03128](https://jobright.ai/jobs/info/694f6210ce13cd105657843d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cheyenne, WY | On Site | Dec 26 |
 | **[Youth Garden Project](https://www.youthgardenproject.org/)** | **[Outreach and Development Coordinator](https://jobright.ai/jobs/info/694f1210a2668b7f54524c84?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Moab, UT | On Site | Dec 26 |
 | **[Planned Parenthood of Greater New York](https://www.plannedparenthood.org/planned-parenthood-greater-new-york)** | **[Advocacy Specialist](https://jobright.ai/jobs/info/694eedd6ce13cd1056572549?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Schenectady, NY | On Site | Dec 26 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Government Patrol Full-Time](https://jobright.ai/jobs/info/694ee61ba2668b7f545228b2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-VA-Richmond | On Site | Dec 26 |
@@ -212,5 +213,4 @@ For a complete list, click the following sortable link below:
 | **[Safe Place for Youth](http://safeplaceforyouth.org/)** | **[Lighthouse Resident Coordinator (Part-Time)](https://jobright.ai/jobs/info/694b31e64b53a1551f94ec78?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA, US | On Site | Dec 20 |
 | **[California Department of Public Health](http://www.cdph.ca.gov)** | **[Contracts Analyst / ASSOCIATE GOVERNMENTAL PROGRAM ANALYST/ANALYST II, JC-502359](https://jobright.ai/jobs/info/6945ec2f7d506e3808f12eb7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | Hybrid | Dec 20 |
 | **[New York Disaster & Interfaith Services (NYDIS)](http://www.nydis.org/)** | **[Social Practitioner – Administrative Unit](https://jobright.ai/jobs/info/6946d7f17d506e3808f23d16?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Manhattan, NY | On Site | Dec 20 |
-| **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Office of Rural Health and Primary Care (ORHPC) Grants Specialist - Grants Specialist](https://jobright.ai/jobs/info/6946b5917d506e3808f21825?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | St Paul, MN | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
