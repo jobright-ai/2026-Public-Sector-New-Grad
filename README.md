@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Government Patrol Watch](https://jobright.ai/jobs/info/69532efe935649778e20f5bf?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-MO-Saint Louis | On Site | Dec 29 |
+| ↳ | **[Security Officer - Government Patrol Specialist](https://jobright.ai/jobs/info/695329e15bb7de448ef644aa?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NC-Charlotte | On Site | Dec 29 |
+| ↳ | **[Security Officer - Unarmed Government Patrols PT](https://jobright.ai/jobs/info/695326d8f1f8465b79ea7a56?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-MO-Saint Louis | On Site | Dec 29 |
+| **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[IDT FACILITATOR AND AUDIT LEAD](https://jobright.ai/jobs/info/6953169a935649778e20d0b4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Dec 29 |
 | **[Mission Healthcare](http://homewithmission.com/)** | **[Hospice Medical Social Worker (MSW)](https://jobright.ai/jobs/info/695307de5bb7de448ef61f91?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Murrieta, CA | On Site | Dec 29 |
 | **[Foundation Communities](https://foundcom.org)** | **[Grants & Data Coordinator](https://jobright.ai/jobs/info/6952f34a5bb7de448ef60f02?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Austin, TX, US | On Site | Dec 29 |
 | **[Clover Health](http://cloverhealth.com)** | **[Community Service Coordinator](https://jobright.ai/jobs/info/6952edb35bb7de448ef60852?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Remote - USA | Remote | Dec 29 |
