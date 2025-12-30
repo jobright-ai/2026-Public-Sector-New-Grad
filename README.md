@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Government Center Patrol - Part Time](https://jobright.ai/jobs/info/69542c545bb7de448ef71865?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Brooklyn | On Site | Dec 30 |
+| **[Southbridge Care Homes](https://www.southbridgecarehomes.com/)** | **[ACTIVATION AIDE](https://jobright.ai/jobs/info/695426f65bb7de448ef71468?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Shelburne, Ontario, Canada | On Site | Dec 30 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[HSS Coordinator - Northern, VA Market](https://jobright.ai/jobs/info/69541c975bb7de448ef70e51?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Arlington, VA | Hybrid | Dec 30 |
+| **[Peninsula Humane Society & SPCA](https://phs-spca.org/)** | **[Animal Rescue & Control (ARC) Dispatcher](https://jobright.ai/jobs/info/6945e17063141d1884557fb9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Mateo, CA | On Site | Dec 30 |
+| **[The University of Toledo](https://utmc.utoledo.edu/)** | **[Secretary 1, Department Of Human Services - 500282](https://jobright.ai/jobs/info/695416b85bb7de448ef70ceb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Toledo, OH | On Site | Dec 30 |
 | **[Door County Land Trust](http://doorcountylandtrust.org/)** | **[Seasonal Stewardship Assistant](https://jobright.ai/jobs/info/6953f76e5bb7de448ef6e8a2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sturgeon Bay, WI | On Site | Dec 30 |
 | **[Optimal Home Care and Hospice](https://www.optimalcareinc.com)** | **[Hospice Medical Social Worker (LMSW) - $2,500 Sign On Bonus!](https://jobright.ai/jobs/info/694c68c5d64ebf28d82202a1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lansing, MI 48901 | On Site | Dec 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator II](https://jobright.ai/jobs/info/6953c3f95bb7de448ef6bbcc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, MA | On Site | Dec 30 |
