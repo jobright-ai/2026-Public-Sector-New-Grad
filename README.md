@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Washington](http://www.washington.edu)** | **[Gun Violence Mobile Advocate Counselor](https://jobright.ai/jobs/info/6954823c5bb7de448ef77d03?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greater Seattle Area | On Site | Dec 30 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/6954519daa05c26e7aaed0c4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Dec 30 |
+| **[Augusta University](http://www.augusta.edu)** | **[Community Program Assistant](https://jobright.ai/jobs/info/693b92a5d4054a2bc0257496?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Augusta, GA | On Site | Dec 30 |
 | **[Westchester Jewish Community Services](http://www.wjcs.com/)** | **[Advocate - Futures Without Violence](https://jobright.ai/jobs/info/695435c8f1f8465b79eb5610?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Mount Vernon, NY | On Site | Dec 30 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Government Center Patrol - Part Time](https://jobright.ai/jobs/info/69542c545bb7de448ef71865?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Brooklyn | On Site | Dec 30 |
 | **[Southbridge Care Homes](https://www.southbridgecarehomes.com/)** | **[ACTIVATION AIDE](https://jobright.ai/jobs/info/695426f65bb7de448ef71468?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Shelburne, Ontario, Canada | On Site | Dec 30 |
@@ -144,6 +146,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Volunteer: Rescue and Care for Vulnerable Animals in South Korea](https://jobright.ai/jobs/info/6812661b270f9f79c74803ab?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Stanford, CA | On Site | Dec 24 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Extension Administrative Support Specialist - Greer](https://jobright.ai/jobs/info/692f621f4c474121999de68b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greer County, OK | On Site | Dec 24 |
 | **[Venture X](https://venturex.com)** | **[Comunity Coordinator](https://jobright.ai/jobs/info/694bffee1a572a617dde4b51?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tampa, FL | On Site | Dec 24 |
-| **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Clinical Research Coordinator 1, MA Certified](https://jobright.ai/jobs/info/69285a4a91ceeb2e8a545394?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Seattle, WA | On Site | Dec 24 |
-| **[Inland Regional Center](https://www.inlandrc.org)** | **[Consumer Services Coordinator (Case Management) for the Central West Transition Unit](https://jobright.ai/jobs/info/694befa5d64ebf28d8219ccf?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Bernardino, CA | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
