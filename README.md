@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clemson University](http://www.clemson.edu)** | **[IACUC Program Analyst](https://jobright.ai/jobs/info/6944949c94730b739877ca31?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Clemson, SC | On Site | Jan 02 |
 | **[GardaWorld](https://www.gardaworld.com)** | **[Casual Government Transport Guard- FR](https://jobright.ai/jobs/info/6958484af1f8465b79eeeae9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Regina, Saskatchewan, Canada | On Site | Jan 02 |
 | **[California Department of Developmental Services](https://www.dds.ca.gov)** | **[PROGRAM ASSISTANT (DEVELOPMENTAL DISABILITIES-SAFETY)](https://jobright.ai/jobs/info/69583d93aa05c26e7ab22bd2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tulare County, CA | On Site | Jan 02 |
 | **[Fidelis Care - New York](https://www.fideliscare.org/)** | **[Bilingual - Retention Field Representative (Nassau County)](https://jobright.ai/jobs/info/695831bb9f1b381eb2710d85?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Hempstead, NY | On Site | Jan 02 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[University of Washington](http://www.washington.edu)** | **[Gun Violence Mobile Advocate Counselor](https://jobright.ai/jobs/info/6954823c5bb7de448ef77d03?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greater Seattle Area | On Site | Dec 30 |
 | **[Diagnamics, Inc.](https://diagnamics.com/)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/695535d8aa05c26e7aaf9f54?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Encinitas, CA | On Site | Dec 30 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/6954519daa05c26e7aaed0c4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Dec 30 |
+| **[Augusta University](http://www.augusta.edu)** | **[Community Program Assistant](https://jobright.ai/jobs/info/693b92a5d4054a2bc0257496?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Augusta, GA | On Site | Dec 30 |
 | **[Westchester Jewish Community Services](http://www.wjcs.com/)** | **[Advocate - Futures Without Violence](https://jobright.ai/jobs/info/695435c8f1f8465b79eb5610?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Mount Vernon, NY | On Site | Dec 30 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer - Government Center Patrol - Part Time](https://jobright.ai/jobs/info/69542c545bb7de448ef71865?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-NY-Brooklyn | On Site | Dec 30 |
 | **[Southbridge Care Homes](https://www.southbridgecarehomes.com/)** | **[ACTIVATION AIDE](https://jobright.ai/jobs/info/695426f65bb7de448ef71468?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Shelburne, Ontario, Canada | On Site | Dec 30 |
