@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Jr. Land/ROW Representative - Atlanta](https://jobright.ai/jobs/info/690554b563502c0aded7a653?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Atlanta, GA | On Site | Jan 26 |
 | **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Research Assistant - CHAL (Research Institute)](https://jobright.ai/jobs/info/6976f91a52f3c27ec64306cf?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Montreal, Quebec, Canada | On Site | Jan 25 |
 | ↳ | **[Clinical Research Coordinator (full-time)](https://jobright.ai/jobs/info/6976f90bfdeb8243a279d84c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Jan 25 |
 | **[State of Wyoming](http://www.wyo.gov)** | **[Long Term Care Analyst 2026-00183](https://jobright.ai/jobs/info/6977398b88e2b47213bb1c49?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cheyenne, WY | On Site | Jan 25 |
