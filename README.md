@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clark Schaefer Hackett](http://www.cshco.com/)** | **[Community Impact Analyst](https://jobright.ai/jobs/info/69a75ebf2672cb0acb4bd240?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cincinnati, OH | On Site | Mar 25 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer - City Funded Housing](https://jobright.ai/jobs/info/69c39a16753c101b215780b4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Mar 25 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Correctional Programs Supervisor - Dan River Prison Work Farm](https://jobright.ai/jobs/info/69c372b27a7a0045db893075?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Caswell County, NC | On Site | Mar 24 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Clinical Research Coordinator A](https://jobright.ai/jobs/info/69bda96ab106024562829cf4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Philadelphia, PA | On Site | Mar 24 |
@@ -252,6 +253,4 @@ For a complete list, click the following sortable link below:
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[Associate, Communications & Public Affairs](https://jobright.ai/jobs/info/69bb0bce3b74eb1e2c8967e2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | Hybrid | Mar 18 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/69bb0ad43b74eb1e2c8964ce?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Madison, WI | Hybrid | Mar 18 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Research Assistant: Policy Center (onsite)](https://jobright.ai/jobs/info/69bb03bf3b74eb1e2c89502f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Mar 18 |
-| **[TIAA](https://www.tiaa.org)** | **[CW - Proxy Voting Administration](https://jobright.ai/jobs/info/69baffc606c1ba00c54d4f8f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY, USA | Hybrid | Mar 18 |
-| **[Greystar (International)](http://www.greystar.com)** | **[Groundskeeper Landscape - Kapilina Beach](https://jobright.ai/jobs/info/69bb19ca3b74eb1e2c897d96?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Kapilina Beach Homes, Ewa Beach, HI | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
