@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ally](http://www.ally.com/)** | **[Government Relations Analyst](https://jobright.ai/jobs/info/69c40cbcd5a1016e98db1550?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | Hybrid | Mar 25 |
+| **[City of New York](http://www1.nyc.gov)** | **[Assistant Program Coordinator, Demand Response - CSPF](https://jobright.ai/jobs/info/69c40c416f4f855eeda662e7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Mar 25 |
+| ↳ | **[Procurement Fellow](https://jobright.ai/jobs/info/69c40c406f4f855eeda662e6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Mar 25 |
 | **[West 4th Strategy, LLC](http://west4thstrategy.com/)** | **[Program Support Specialist](https://jobright.ai/jobs/info/69c3ef54d5a1016e98daf57e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bethesda, MD | On Site | Mar 25 |
+| **[Command Holdings, a Pequot Company](www.commandholdingspqt.com)** | **[Cyber Workforce Program Management Analyst](https://jobright.ai/jobs/info/69c40dd76f4f855eeda66724?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Scott AFB, IL 62225, USA | On Site | Mar 25 |
 | **[Leadership Connect](https://www.leadershipconnect.io/)** | **[Outreach Associate](https://jobright.ai/jobs/info/69c042ea2c312363dcd2cfa4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Mar 25 |
 | **[Pomeroy](http://www.pomeroy.com)** | **[Community Relations Specialist](https://jobright.ai/jobs/info/69c3e6da33eecf310793f374?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Parsippany, NJ | Remote | Mar 25 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant, Center on Opportunity and Social Mobility (Safety-Net Programs)](https://jobright.ai/jobs/info/698a578fb708d23f366c0c5f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Mar 25 |
