@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Communication Specialist](https://jobright.ai/jobs/info/69d4e1fb366bb95ba55412e4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Apr 07 |
 | **[AT&T](https://www.att.com/)** | **[VOC Specialist (Government)](https://jobright.ai/jobs/info/69d4956a891d7b11cfcfbe35?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Mount Weather, Virginia | On Site | Apr 06 |
 | **[Allied Universal](https://www.aus.com/)** | **[Flex Officer - Municipal Building](https://jobright.ai/jobs/info/69d4a117cfdc6132f945cc90?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Seattle, WA | On Site | Apr 06 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[COSS County Administrative Assistant](https://jobright.ai/jobs/info/69d472cdcfdc6132f945ae09?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Raleigh, NC | On Site | Apr 06 |
@@ -214,8 +215,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Based Care Coordinator I - R10259-9](https://jobright.ai/jobs/info/69cdef8454f00230c6cf94f5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Marion, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-10](https://jobright.ai/jobs/info/69cdef09891d7b11cfcc2ff7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Fayetteville, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-17](https://jobright.ai/jobs/info/69cdf63dcdb525785fb92421?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Arkansas, United States | On Site | Apr 01 |
-| ↳ | **[Community Based Care Coordinator I - R10259-11](https://jobright.ai/jobs/info/69cdf707366bb95ba550652d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bentonville, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-8](https://jobright.ai/jobs/info/69cdf708366bb95ba550652f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Berryville, AR | On Site | Apr 01 |
+| ↳ | **[Community Based Care Coordinator I - R10259-11](https://jobright.ai/jobs/info/69cdf707366bb95ba550652d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bentonville, AR | On Site | Apr 01 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Deputy Press Secretary.](https://jobright.ai/jobs/info/69cdf04ecdb525785fb91ad7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Denver, CO | On Site | Apr 01 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Public Sector PMO Analyst](https://jobright.ai/jobs/info/69cd891e398fb071abf79168?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, IL | Remote | Apr 01 |
 | **[SEI](https://www.seiinc.org)** | **[Climate and Decarbonization Strategy Associate](https://jobright.ai/jobs/info/69cd7d6c891d7b11cfcb9418?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Remote (Anywhere in the U.S.) | Remote | Apr 01 |
@@ -264,5 +265,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[COSS County Administrative Assistant, Harnett County](https://jobright.ai/jobs/info/69cc6fbd8130af1ac8338719?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Raleigh, NC | On Site | Mar 31 |
 | **[Cohere](https://dmbcommunitylife.com/)** | **[Community Engagement Coordinator](https://jobright.ai/jobs/info/69cc8fc6cfdc6132f940fe4d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bluffton, SC | On Site | Mar 31 |
 | **[COGENT Infotech](https://cogentinfo.com)** | **[Global NY Administrative](https://jobright.ai/jobs/info/69d4c7f4e63cea7a8b65d244?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Mar 31 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator I  (SPARC-XP Study )](https://jobright.ai/jobs/info/69cc23dbe1921223acc7422e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston-MA | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
