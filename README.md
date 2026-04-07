@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[COSS County Administrative Assistant](https://jobright.ai/jobs/info/69d472cdcfdc6132f945ae09?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Raleigh, NC | On Site | Apr 06 |
 | **[Allied Universal](https://www.aus.com/)** | **[Flex Officer - Municipal Building](https://jobright.ai/jobs/info/69d45b3fcdb525785fbc8b3c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Seattle, WA, US | On Site | Apr 06 |
 | ↳ | **[Flex Officer - Municipal Building](https://jobright.ai/jobs/info/69d45b2e891d7b11cfcf9b22?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-WA-Seattle | On Site | Apr 06 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Administrative Technician - Public Health](https://jobright.ai/jobs/info/69d45736e63cea7a8b658f4c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | Apr 06 |
@@ -209,12 +210,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Based Care Coordinator I - R10259-13](https://jobright.ai/jobs/info/69cdf0b6cdb525785fb91bbb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Monticello, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-15](https://jobright.ai/jobs/info/69cdef7b54f00230c6cf94d4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lake Village, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-12](https://jobright.ai/jobs/info/69cdf0c5cdb525785fb91be7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Paragould, AR | On Site | Apr 01 |
-| ↳ | **[Community Based Care Coordinator I - R10259-9](https://jobright.ai/jobs/info/69cdef8454f00230c6cf94f5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Marion, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-16](https://jobright.ai/jobs/info/69cdeef0398fb071abf7e3b9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Searcy, AR | On Site | Apr 01 |
+| ↳ | **[Community Based Care Coordinator I - R10259-9](https://jobright.ai/jobs/info/69cdef8454f00230c6cf94f5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Marion, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-10](https://jobright.ai/jobs/info/69cdef09891d7b11cfcc2ff7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Fayetteville, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-17](https://jobright.ai/jobs/info/69cdf63dcdb525785fb92421?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Arkansas, United States | On Site | Apr 01 |
-| ↳ | **[Community Based Care Coordinator I - R10259-11](https://jobright.ai/jobs/info/69cdf707366bb95ba550652d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bentonville, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-8](https://jobright.ai/jobs/info/69cdf708366bb95ba550652f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Berryville, AR | On Site | Apr 01 |
+| ↳ | **[Community Based Care Coordinator I - R10259-11](https://jobright.ai/jobs/info/69cdf707366bb95ba550652d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bentonville, AR | On Site | Apr 01 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Deputy Press Secretary.](https://jobright.ai/jobs/info/69cdf04ecdb525785fb91ad7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Denver, CO | On Site | Apr 01 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Public Sector PMO Analyst](https://jobright.ai/jobs/info/69cd891e398fb071abf79168?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, IL | Remote | Apr 01 |
 | **[SEI](https://www.seiinc.org)** | **[Climate and Decarbonization Strategy Associate](https://jobright.ai/jobs/info/69cd7d6c891d7b11cfcb9418?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Remote (Anywhere in the U.S.) | Remote | Apr 01 |
@@ -277,11 +278,10 @@ For a complete list, click the following sortable link below:
 | **[Invenergy](https://invenergy.com)** | **[Analyst, Philanthropy - Polsky Foundation](https://jobright.ai/jobs/info/69cbef96e1921223acc73386?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, IL | On Site | Mar 31 |
 | **[Project Healthy Minds](https://www.projecthealthyminds.com/)** | **[Advocacy Associate](https://jobright.ai/jobs/info/69c34e157a7a0045db88ea62?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Mar 31 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Assistant Public Defender](https://jobright.ai/jobs/info/69cc7e09cdb525785fb7bdd1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Graham County, NC | On Site | Mar 31 |
-| ↳ | **[Assistant Public Defender](https://jobright.ai/jobs/info/69cc7df38130af1ac8338d44?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Macon County, NC | On Site | Mar 31 |
-| ↳ | **[Assistant Public Defender](https://jobright.ai/jobs/info/69cc8346cfdc6132f940e12f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Swain County, NC | On Site | Mar 31 |
-| ↳ | **[Assistant Public Defender](https://jobright.ai/jobs/info/69cc7de8e1921223acc763a5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Haywood County, NC | On Site | Mar 31 |
 | ↳ | **[Assistant Public Defender](https://jobright.ai/jobs/info/69cc7e0a366bb95ba54efd26?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Jackson County, NC | On Site | Mar 31 |
 | ↳ | **[Assistant Public Defender](https://jobright.ai/jobs/info/69cc7e0a366bb95ba54efd2a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cherokee County, NC | On Site | Mar 31 |
+| ↳ | **[Assistant Public Defender](https://jobright.ai/jobs/info/69cc8346cfdc6132f940e12f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Swain County, NC | On Site | Mar 31 |
 | ↳ | **[Assistant Public Defender](https://jobright.ai/jobs/info/69cc7df9891d7b11cfcacc1c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Clay County, NC | On Site | Mar 31 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Jr. Land/ROW Representative - Atlanta](https://jobright.ai/jobs/info/6992f96ee0bddb6acac13aa4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Atlanta, GA | On Site | Mar 31 |
+| ↳ | **[Assistant Public Defender](https://jobright.ai/jobs/info/69cc7de8e1921223acc763a5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Haywood County, NC | On Site | Mar 31 |
+| ↳ | **[Assistant Public Defender](https://jobright.ai/jobs/info/69cc7df38130af1ac8338d44?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Macon County, NC | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
