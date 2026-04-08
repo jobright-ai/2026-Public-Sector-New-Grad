@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Communication Specialist](https://jobright.ai/jobs/info/69d637bd52a5bf5800127efe?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[Sacramento LGBT Community Center](https://saccenter.org/)** | **[Economic Justice Program Coordinator](https://jobright.ai/jobs/info/69d61329cfdc6132f946863e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | On Site | Apr 08 |
 | **[LandSolutions Inc](https://www.landsolutions.ca)** | **[Land Representative](https://jobright.ai/jobs/info/69d625f5cfdc6132f9468cba?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ontario, CA | Remote | Apr 08 |
 | **[USDA Animal and Plant Health Inspection Service (APHIS)](https://www.aphis.usda.gov/aphis/home/)** | **[Program Specialist (Import/Export Document Analyst)](https://jobright.ai/jobs/info/69d5f69f891d7b11cfd0735d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento, CA | On Site | Apr 07 |
@@ -239,8 +240,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Based Care Coordinator I - R10259-13](https://jobright.ai/jobs/info/69cdf0b6cdb525785fb91bbb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Monticello, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-15](https://jobright.ai/jobs/info/69cdef7b54f00230c6cf94d4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lake Village, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-12](https://jobright.ai/jobs/info/69cdf0c5cdb525785fb91be7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Paragould, AR | On Site | Apr 01 |
-| ↳ | **[Community Based Care Coordinator I - R10259-16](https://jobright.ai/jobs/info/69cdeef0398fb071abf7e3b9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Searcy, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-9](https://jobright.ai/jobs/info/69cdef8454f00230c6cf94f5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Marion, AR | On Site | Apr 01 |
+| ↳ | **[Community Based Care Coordinator I - R10259-16](https://jobright.ai/jobs/info/69cdeef0398fb071abf7e3b9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Searcy, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-10](https://jobright.ai/jobs/info/69cdef09891d7b11cfcc2ff7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Fayetteville, AR | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-17](https://jobright.ai/jobs/info/69cdf63dcdb525785fb92421?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Arkansas, United States | On Site | Apr 01 |
 | ↳ | **[Community Based Care Coordinator I - R10259-8](https://jobright.ai/jobs/info/69cdf708366bb95ba550652f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Berryville, AR | On Site | Apr 01 |
@@ -248,8 +249,4 @@ For a complete list, click the following sortable link below:
 | **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Deputy Press Secretary.](https://jobright.ai/jobs/info/69cdf04ecdb525785fb91ad7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Denver, CO | On Site | Apr 01 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Public Sector PMO Analyst](https://jobright.ai/jobs/info/69cd891e398fb071abf79168?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, IL | Remote | Apr 01 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Clinical Research Coordinator A/B](https://jobright.ai/jobs/info/69c6e6a11b5ad02887388233?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Philadelphia, PA | On Site | Apr 01 |
-| **[New York State Unified Court System](https://www.nycourts.gov)** | **[Child Welfare Court Improvement Project Coordinator](https://jobright.ai/jobs/info/69cdeb25891d7b11cfcc1871?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Monroe County, NY | On Site | Apr 01 |
-| **[City of Keller](http://www.cityofkeller.com/)** | **[Management Analyst - Public Works](https://jobright.ai/jobs/info/69cd733254f00230c6cef76c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Town Hall, Keller, TX, US | On Site | Apr 01 |
-| **[ESL Federal Credit Union](https://www.esl.org)** | **[Generational Wealth Grant Administrator](https://jobright.ai/jobs/info/69cd7302891d7b11cfcb8e03?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Rochester, New York, United States | Hybrid | Apr 01 |
-| **[Appalachian Mountain Club](http://www.outdoors.org/)** | **[Outdoor Journey Fund Program Coordinator](https://jobright.ai/jobs/info/69cd6ab6366bb95ba54fbc8f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Hybrid - New York - Haverstraw, NY 10927 | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
