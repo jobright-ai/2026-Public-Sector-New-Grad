@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santa Clara Family Health Plan](https://www.scfhp.com/)** | **[Quality Outreach Coordinator](https://jobright.ai/jobs/info/69d88bef9f97a42dc9c1cfa6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Jose, CA | On Site | Apr 09 |
 | **[Employment Development Department](https://www.edd.ca.gov/About_EDD/Career_Opportunities.htm)** | **[ANALYST I](https://jobright.ai/jobs/info/69d87914b861c42857c4ae9f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento County, CA | Hybrid | Apr 09 |
 | **[Lifespan of Greater Rochester](https://www.lifespan-roch.org/home)** | **[Program Coordinator-Ombudsman](https://jobright.ai/jobs/info/69d877e7b67cec4f9b09ce00?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Rochester, NY | Hybrid | Apr 09 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Unit Secretary - Emergency Services](https://jobright.ai/jobs/info/69d877b7738f2f099e89cda4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Inglewood, CA | On Site | Apr 09 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3abb861c42857c47724?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Miami - 200 S Biscayne Blvd | Hybrid | Apr 09 |
 | **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a5869c7e25d8592853?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tampa-4030 West Boy Scout Boulevard | Hybrid | Apr 09 |
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a5869c7e25d8592852?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tampa-4030 West Boy Scout Boulevard | Hybrid | Apr 09 |
-| **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c1927a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY Office | Hybrid | Apr 09 |
-| ↳ | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c19266?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas - 1999 Bryan St. | Hybrid | Apr 09 |
+| **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c19266?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas - 1999 Bryan St. | Hybrid | Apr 09 |
+| ↳ | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c1927a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY Office | Hybrid | Apr 09 |
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c1926e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY Office | Hybrid | Apr 09 |
 | ↳ | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f399738f2f099e8996ae?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles - Century Park E | Hybrid | Apr 09 |
 | **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f398738f2f099e8996a3?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles - Century Park E | Hybrid | Apr 09 |
