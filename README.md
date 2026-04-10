@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Venable LLP](http://www.venable.com)** | **[Trust & Safety and Public Affairs Analyst](https://jobright.ai/jobs/info/69d92f1b5356a60f40fd8306?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Bath Planet](http://www.bathplanetwesternpa.com)** | **[Field Canvasser](https://jobright.ai/jobs/info/69d920b9869c7e25d8598e8d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brodhead, WI | On Site | Apr 10 |
 | ↳ | **[Field Canvasser](https://jobright.ai/jobs/info/69d920b7738f2f099e89fd6b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Madison, WI | On Site | Apr 10 |
 | ↳ | **[Field Canvasser](https://jobright.ai/jobs/info/69d920ad869c7e25d8598e5b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New Glarus, WI | On Site | Apr 10 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Eliot Community Human Services](https://www.eliotchs.org)** | **[Crisis Family Partner CSA](https://jobright.ai/jobs/info/69d86125869c7e25d85952bc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lynn | On Site | Apr 09 |
 | **[Canadian Bureau for International Education (CBIE) | Bureau canadien de l’éducation internationale](https://cbie.ca)** | **[Project Analyst, Inclusive Local Governance (ILG) Program in Vietnam](https://jobright.ai/jobs/info/69d85e519f97a42dc9c1bc5f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ottawa, ON | Remote | Apr 09 |
 | **[Towne Properties](http://towneproperties.com)** | **[Community Association Manager - COA/HOA](https://jobright.ai/jobs/info/69d84570b67cec4f9b09ba9a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Columbus, OH | On Site | Apr 09 |
-| **[Allied Universal](https://www.aus.com/)** | **[Security Ambassador Officer Patrol](https://jobright.ai/jobs/info/69d841ce9f97a42dc9c1b4e6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-CA-Culver City | On Site | Apr 09 |
 | **[Immigrant and Refugee Community Organization](https://irco.org/)** | **[Eastern Oregon Program Coordinator 1](https://jobright.ai/jobs/info/69d833f4f4ea471a51fe48e5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ontario, OR | On Site | Apr 09 |
 | ↳ | **[Eastern Oregon Program Coordinator 1](https://jobright.ai/jobs/info/69d82acf9f97a42dc9c1acf9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ontario,OR,US | On Site | Apr 09 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Ambassador Officer Bike Patrol](https://jobright.ai/jobs/info/69d825e7b861c42857c49015?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-CA-Culver City | On Site | Apr 09 |
