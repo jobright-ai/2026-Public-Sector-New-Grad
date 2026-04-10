@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[HMIS Data Analyst, Operations Assistant I (NCS) - Mayor's Office of Homeless Services](https://jobright.ai/jobs/info/69d96c45b67cec4f9b0a1f4a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | 7 E Redwood St | On Site | Apr 10 |
+| **[HumanKind](https://www.humankind.org)** | **[Treatment Foster Care Case Worker](https://jobright.ai/jobs/info/69d96819738f2f099e8a1a0f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Richmond, Virginia | On Site | Apr 10 |
 | **[City of Lenexa](https://www.lenexa.com)** | **[Parks and Rec Program Coordinator - Nature (Part Time)](https://jobright.ai/jobs/info/69d95ea09f97a42dc9c21204?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lenexa, KS | On Site | Apr 10 |
 | **[Hanson Bridgett LLP](http://hansonbridgett.com/)** | **[Government Associate (1-2 Years of Experience)](https://jobright.ai/jobs/info/69d959de9f97a42dc9c20e91?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | San Francisco Bay Area | Hybrid | Apr 10 |
 | **[Massachusetts Port Authority](https://www.massport.com)** | **[Temporary Public Service Representative](https://jobright.ai/jobs/info/69d9590a5356a60f40fd8d7f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | 22 300 Terminal Road, East Boston, MA, 02128, US | On Site | Apr 10 |
