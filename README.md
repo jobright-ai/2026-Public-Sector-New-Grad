@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empire Homes](http://www.empirecommunities.com/)** | **[Assistant Superintendent - Empire Homes](https://jobright.ai/jobs/info/69bd25f6393a1008f7428a40?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Colorado Springs, CO | On Site | Apr 11 |
+| **[Icertis](https://www.icertis.com)** | **[Lead Government Support Analyst](https://jobright.ai/jobs/info/69be1335482822729300c92d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Virginia, United States | On Site | Apr 11 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Health Policy Analyst - Workforce](https://jobright.ai/jobs/info/69da0303869c7e25d85a0801?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Albany, NY | On Site | Apr 11 |
 | **[Shriners Children's](https://www.shrinerschildrens.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69d9f239b67cec4f9b0a6d64?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Montreal, QC | On Site | Apr 11 |
 | **[Softchoice](http://www.softchoice.com)** | **[Administrator, Public Sector Programs (Bilingual English & French)](https://jobright.ai/jobs/info/69cf17fa54f00230c6d0670a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ottawa, ON | On Site | Apr 10 |
