@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tempus Unlimited, Inc.](https://tempusunlimited.org)** | **[Regional Liaison](https://jobright.ai/jobs/info/69dbacd19f97a42dc9c2f0e5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Salem, MA | On Site | Apr 12 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Clinical Research Coordinator, Miami Cancer Institute, FT, 8:00A - 4:30P](https://jobright.ai/jobs/info/698656138ca8121a3a688b35?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Miami, FL | On Site | Apr 12 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Communication Specialist](https://jobright.ai/jobs/info/69db8d94f748bc5d08a58886?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Apr 12 |
 | **[Association of International Certified Professional Accountants](http://www.aicpaglobal.com/)** | **[Communications Specialist, Public Affairs - CAQ](https://jobright.ai/jobs/info/69a2610b359fe034b1cd9c25?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Apr 12 |
