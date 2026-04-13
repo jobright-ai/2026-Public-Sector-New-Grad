@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Allied Universal](https://www.aus.com/)** | **[Security Office Residential Building](https://jobright.ai/jobs/info/69dc60af738f2f099e8b0ae4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Apr 12 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Communication Specialist](https://jobright.ai/jobs/info/69dc2237869c7e25d85a8f5a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Apr 12 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer Transitional Housing Facility](https://jobright.ai/jobs/info/69dc17c9f748bc5d08a5964b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Apr 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Communications Advisory Services Specialist](https://jobright.ai/jobs/info/69c8ae5ce565c26a70030604?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Vancouver, WA | On Site | Apr 12 |
@@ -77,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Softchoice](http://www.softchoice.com)** | **[Administrator, Public Sector Programs (Bilingual English & French)](https://jobright.ai/jobs/info/69cf17fa54f00230c6d0670a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ottawa, ON | On Site | Apr 10 |
 | ↳ | **[Administrator, Public Sector Programs (Bilingual English & French)](https://jobright.ai/jobs/info/69cf183c891d7b11cfccff27?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Toronto, ON | On Site | Apr 10 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Religious Freedom Analyst, Junior](https://jobright.ai/jobs/info/69d9d5e8f748bc5d08a4e8d3?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Apr 10 |
+| **[Towne Properties](http://towneproperties.com)** | **[Community Association Manager - COA/HOA](https://jobright.ai/jobs/info/69dc8149b67cec4f9b0b1be0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Columbus, OH | On Site | Apr 10 |
 | **[Essex Property Trust](http://www.essexpropertytrust.com)** | **[Specialist, Housing](https://jobright.ai/jobs/info/69d9cae4869c7e25d859dacf?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Hayward, CA | On Site | Apr 10 |
 | **[Law Offices of Thiru Vignarajah](www.thirulaw.com)** | **[Community Organizer](https://jobright.ai/jobs/info/69d9c0409f97a42dc9c240eb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | DC-Baltimore Area | On Site | Apr 10 |
 | **[MELE Associates, Inc.](http://meleassociates.com)** | **[Junior Foreign Affairs Analyst](https://jobright.ai/jobs/info/69d9a4c3f748bc5d08a4cf5c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | DC-Baltimore Area | Hybrid | Apr 10 |
