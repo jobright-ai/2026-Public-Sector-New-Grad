@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICTRecht](https://ictrecht.nl)** | **[Junior Functionaris Gegevensbescherming (FG)](https://jobright.ai/jobs/info/69dd3141738f2f099e8b4ffb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Nederland, TX | Hybrid | Apr 13 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/69dd313d9f97a42dc9c34e72?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greater Boston | On Site | Apr 13 |
+| **[R1 RCM](http://www.r1rcm.com/)** | **[Financial Counseling Rep I](https://jobright.ai/jobs/info/69dd3114f748bc5d08a5e973?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Jacksonville, FL | On Site | Apr 13 |
 | **[CARPLS](https://carpls.org/)** | **[Community Engagement Coordinator](https://jobright.ai/jobs/info/69dd2614f748bc5d08a5e5bc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, IL | On Site | Apr 13 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Community Coordinator I (Hollander Ridge)](https://jobright.ai/jobs/info/69dd1f769f97a42dc9c3494c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD, USA | On Site | Apr 13 |
 | **[Research Foundation for Mental Hygiene, Inc.](http://corporate.rfmh.org/)** | **[Research Coordinator](https://jobright.ai/jobs/info/69dd1ac55356a60f40fec77e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | Hybrid | Apr 13 |
@@ -159,7 +162,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c19266?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas - 1999 Bryan St. | Hybrid | Apr 09 |
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c1926e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY Office | Hybrid | Apr 09 |
 | ↳ | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f399738f2f099e8996ae?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles - Century Park E | Hybrid | Apr 09 |
-| **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f398f4ea471a51fe2a86?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles - Century Park E | Hybrid | Apr 09 |
+| **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f398738f2f099e8996a3?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles - Century Park E | Hybrid | Apr 09 |
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f396f4ea471a51fe2a7a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas - 1999 Bryan St. | Hybrid | Apr 09 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Executive Briefing Center Clerk](https://jobright.ai/jobs/info/69d7ef43b67cec4f9b09947e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Somerset, NJ USA | On Site | Apr 09 |
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d80928f4ea471a51fe3225?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
