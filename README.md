@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vina Moses Center](http://www.vinamoses.org/)** | **[Bilingual Program Advocate](https://jobright.ai/jobs/info/69dd45665356a60f40fed4b9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Corvallis, OR | On Site | Apr 13 |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[State Opioid Response Program Coordinator - Behavioral Health](https://jobright.ai/jobs/info/69dd44daf748bc5d08a5ee2e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | Apr 13 |
+| ↳ | **[Administrative Technician](https://jobright.ai/jobs/info/69dd3cd8bc6f6622c99112f9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | Apr 13 |
 | **[ICTRecht](https://ictrecht.nl)** | **[Junior Functionaris Gegevensbescherming (FG)](https://jobright.ai/jobs/info/69dd3141738f2f099e8b4ffb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Nederland, TX | Hybrid | Apr 13 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/69dd313d9f97a42dc9c34e72?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Greater Boston | On Site | Apr 13 |
 | **[R1 RCM](http://www.r1rcm.com/)** | **[Financial Counseling Rep I](https://jobright.ai/jobs/info/69dd3114f748bc5d08a5e973?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Jacksonville, FL | On Site | Apr 13 |
@@ -162,7 +165,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c19266?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas - 1999 Bryan St. | Hybrid | Apr 09 |
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c1926e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY Office | Hybrid | Apr 09 |
 | ↳ | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f399738f2f099e8996ae?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles - Century Park E | Hybrid | Apr 09 |
-| **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f398738f2f099e8996a3?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles - Century Park E | Hybrid | Apr 09 |
+| **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f398f4ea471a51fe2a86?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles - Century Park E | Hybrid | Apr 09 |
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f396f4ea471a51fe2a7a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas - 1999 Bryan St. | Hybrid | Apr 09 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Executive Briefing Center Clerk](https://jobright.ai/jobs/info/69d7ef43b67cec4f9b09947e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Somerset, NJ USA | On Site | Apr 09 |
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d80928f4ea471a51fe3225?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
@@ -249,5 +252,4 @@ For a complete list, click the following sortable link below:
 | **[Common Cause](http://www.commoncause.org/)** | **[Organizer, Florida (Temporary)](https://jobright.ai/jobs/info/69d53204cfdc6132f946057c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Florida | On Site | Apr 07 |
 | **[Longwell Partners](https://www.longwellpartners.com/)** | **[Researcher](https://jobright.ai/jobs/info/69d51eafe63cea7a8b65ecb5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Apr 07 |
 | **[AT&T](https://www.att.com/)** | **[VOC Specialist (Government)](https://jobright.ai/jobs/info/69d4f6b9cfdc6132f945eeee?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Mount Sidney, VA | On Site | Apr 07 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[COSS County Administrative Assistant](https://jobright.ai/jobs/info/69d472cdcfdc6132f945ae09?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Raleigh, NC | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
