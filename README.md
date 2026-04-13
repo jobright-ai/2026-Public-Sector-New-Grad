@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RealManage](http://realmanage.com)** | **[Onsite Assistant Community Association Manager (MFL2026)](https://jobright.ai/jobs/info/69dd54089f97a42dc9c35aef?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Miramar, FL 33027 | On Site | Apr 13 |
+| **[Southeastern Baptist Theological Seminary](http://www.sebts.edu/)** | **[Government/Prison Financial Aid Office Assistant](https://jobright.ai/jobs/info/69dd5402738f2f099e8b5bd8?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Wake Forest, NC 27587 | On Site | Apr 13 |
+| **[Asset Living](https://www.assetliving.com/)** | **[Resident Services Coordinator](https://jobright.ai/jobs/info/69dd4e10bc6f6622c99114d2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Houston, TX | On Site | Apr 13 |
+| **[WinnCompanies](https://www.winncompanies.com)** | **[Community Coordinator I (Hollander Ridge)](https://jobright.ai/jobs/info/69dd4da0f748bc5d08a5f09a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | On Site | Apr 13 |
 | **[Vina Moses Center](http://www.vinamoses.org/)** | **[Bilingual Program Advocate](https://jobright.ai/jobs/info/69dd45665356a60f40fed4b9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Corvallis, OR | On Site | Apr 13 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[State Opioid Response Program Coordinator - Behavioral Health](https://jobright.ai/jobs/info/69dd44daf748bc5d08a5ee2e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | Apr 13 |
 | ↳ | **[Administrative Technician](https://jobright.ai/jobs/info/69dd3cd8bc6f6622c99112f9?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | Apr 13 |
