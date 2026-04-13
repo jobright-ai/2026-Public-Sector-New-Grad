@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CARPLS](https://carpls.org/)** | **[Community Engagement Coordinator](https://jobright.ai/jobs/info/69dd2614f748bc5d08a5e5bc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, IL | On Site | Apr 13 |
+| **[WinnCompanies](https://www.winncompanies.com)** | **[Community Coordinator I (Hollander Ridge)](https://jobright.ai/jobs/info/69dd1f769f97a42dc9c3494c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD, USA | On Site | Apr 13 |
 | **[Research Foundation for Mental Hygiene, Inc.](http://corporate.rfmh.org/)** | **[Research Coordinator](https://jobright.ai/jobs/info/69dd1ac55356a60f40fec77e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | Hybrid | Apr 13 |
 | **[Center for Global Development](http://www.cgdev.org/)** | **[Research Assistant ? Gender Equality (Temporary)](https://jobright.ai/jobs/info/69dd17e65356a60f40fec5b3?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | Hybrid | Apr 13 |
 | **[AIPAC](http://www.aipac.org)** | **[Associate, Research UDP](https://jobright.ai/jobs/info/69dd13e7bc6f6622c9910442?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | Hybrid | Apr 13 |
@@ -153,8 +155,8 @@ For a complete list, click the following sortable link below:
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3abb861c42857c47724?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Miami - 200 S Biscayne Blvd | Hybrid | Apr 09 |
 | **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a5869c7e25d8592853?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tampa-4030 West Boy Scout Boulevard | Hybrid | Apr 09 |
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a5869c7e25d8592852?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tampa-4030 West Boy Scout Boulevard | Hybrid | Apr 09 |
-| **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c19266?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas - 1999 Bryan St. | Hybrid | Apr 09 |
-| ↳ | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c1927a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY Office | Hybrid | Apr 09 |
+| **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c1927a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY Office | Hybrid | Apr 09 |
+| ↳ | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c19266?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas - 1999 Bryan St. | Hybrid | Apr 09 |
 | **[Howden](http://www.howdengroup.com)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f3a49f97a42dc9c1926e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY Office | Hybrid | Apr 09 |
 | ↳ | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f399738f2f099e8996ae?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles - Century Park E | Hybrid | Apr 09 |
 | **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Environmental Broker](https://jobright.ai/jobs/info/69d7f398f4ea471a51fe2a86?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles - Century Park E | Hybrid | Apr 09 |
@@ -245,7 +247,4 @@ For a complete list, click the following sortable link below:
 | **[Longwell Partners](https://www.longwellpartners.com/)** | **[Researcher](https://jobright.ai/jobs/info/69d51eafe63cea7a8b65ecb5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | On Site | Apr 07 |
 | **[AT&T](https://www.att.com/)** | **[VOC Specialist (Government)](https://jobright.ai/jobs/info/69d4f6b9cfdc6132f945eeee?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Mount Sidney, VA | On Site | Apr 07 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[COSS County Administrative Assistant](https://jobright.ai/jobs/info/69d472cdcfdc6132f945ae09?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Raleigh, NC | On Site | Apr 06 |
-| **[Allied Universal](https://www.aus.com/)** | **[Flex Officer - Municipal Building](https://jobright.ai/jobs/info/69d45b3fcdb525785fbc8b3c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Seattle, WA, US | On Site | Apr 06 |
-| ↳ | **[Flex Officer - Municipal Building](https://jobright.ai/jobs/info/69d45b2e891d7b11cfcf9b22?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-WA-Seattle | On Site | Apr 06 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Administrative Technician - Public Health](https://jobright.ai/jobs/info/69d45736e63cea7a8b658f4c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
