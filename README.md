@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alignment Health](https://www.alignmenthealth.com)** | **[MRA Program Coordinator - Hybrid in Orange, CA.](https://jobright.ai/jobs/info/69dd7bbe61f6ed54321fd8ef?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Orange, CA | Hybrid | Apr 13 |
 | **[Savi](http://www.bysavi.com)** | **[Community Organizer](https://jobright.ai/jobs/info/69dd6c0ebc6f6622c9912213?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Detroit, MI | On Site | Apr 13 |
 | **[The US Oncology Network](http://www.usoncology.com/)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69dd6c07bc6f6622c9912200?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Pueblo, CO | On Site | Apr 13 |
 | **[Essex Property Trust](http://www.essexpropertytrust.com)** | **[Specialist, Housing](https://jobright.ai/jobs/info/69d9cae4869c7e25d859dacf?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Hayward, CA | On Site | Apr 13 |
@@ -86,11 +87,11 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Rules Management Program Associate - NFR - Associate](https://jobright.ai/jobs/info/69b49b3206c1ba00c54619c0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | On Site | Apr 13 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Rules Management Program Associate - NFR - Associate](https://jobright.ai/jobs/info/69b48baf3b74eb1e2c81e9bb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas, TX | On Site | Apr 12 |
 | **[North Shore Strategies](https://nsstrategy.com)** | **[Canvasser - Staten Island](https://jobright.ai/jobs/info/69dd6b3561f6ed54321fd4eb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Staten Island, NY | On Site | Apr 12 |
-| ↳ | **[Canvasser - Westchester](https://jobright.ai/jobs/info/69dd6ad75356a60f40fedfcf?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, New York, United States | On Site | Apr 12 |
-| ↳ | **[Canvasser - Queens](https://jobright.ai/jobs/info/69dd68f1bc6f6622c9912027?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Queens, NY | On Site | Apr 12 |
 | ↳ | **[Canvasser - Brooklyn](https://jobright.ai/jobs/info/69dd6adf738f2f099e8b6119?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Apr 12 |
-| ↳ | **[Canvasser - Manhattan](https://jobright.ai/jobs/info/69dd6902f748bc5d08a5fa7f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Apr 12 |
 | ↳ | **[Canvasser - Bronx](https://jobright.ai/jobs/info/69dd68f3f748bc5d08a5fa5f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bronx, NY | On Site | Apr 12 |
+| ↳ | **[Canvasser - Queens](https://jobright.ai/jobs/info/69dd68f1bc6f6622c9912027?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Queens, NY | On Site | Apr 12 |
+| ↳ | **[Canvasser - Manhattan](https://jobright.ai/jobs/info/69dd6902f748bc5d08a5fa7f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Apr 12 |
+| ↳ | **[Canvasser - Westchester](https://jobright.ai/jobs/info/69dd6ad75356a60f40fedfcf?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, New York, United States | On Site | Apr 12 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Communication Specialist](https://jobright.ai/jobs/info/69dc2237869c7e25d85a8f5a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Apr 12 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer Transitional Housing Facility](https://jobright.ai/jobs/info/69dc17c9f748bc5d08a5964b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Apr 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Communications Advisory Services Specialist](https://jobright.ai/jobs/info/69c8ae5ce565c26a70030604?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Vancouver, WA | On Site | Apr 12 |
