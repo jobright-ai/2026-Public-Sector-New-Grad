@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Right-of-Way Acquisition Agent](https://jobright.ai/jobs/info/69ab73a87e1fab39d382f7a6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Denver, CO | On Site | Apr 19 |
 | **[Humana](http://www.humana.com)** | **[Social Worker, Home Health](https://jobright.ai/jobs/info/68b23a94f4e41a61efd82da6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Alameda, CA | Remote | Apr 19 |
 | **[HumanKind](https://www.humankind.org)** | **[Treatment Foster Care Case Worker](https://jobright.ai/jobs/info/69e14ef9acc736112f5c2fb1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Richmond, Virginia | On Site | Apr 18 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer Driving Patrol Role](https://jobright.ai/jobs/info/69e0ace856ce9f5cfb85bbb6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-WA-Wenatchee | On Site | Apr 18 |
@@ -248,9 +249,9 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Rules Management Program Associate - NFR - Associate](https://jobright.ai/jobs/info/69b49b3206c1ba00c54619c0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baltimore, MD | On Site | Apr 13 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Rules Management Program Associate - NFR - Associate](https://jobright.ai/jobs/info/69b48baf3b74eb1e2c81e9bb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas, TX | On Site | Apr 12 |
 | **[North Shore Strategies](https://nsstrategy.com)** | **[Canvasser - Staten Island](https://jobright.ai/jobs/info/69dd6b3561f6ed54321fd4eb?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Staten Island, NY | On Site | Apr 12 |
-| ↳ | **[Canvasser - Brooklyn](https://jobright.ai/jobs/info/69dd6adf738f2f099e8b6119?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Apr 12 |
 | ↳ | **[Canvasser - Manhattan](https://jobright.ai/jobs/info/69dd6902f748bc5d08a5fa7f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | Apr 12 |
+| ↳ | **[Canvasser - Queens](https://jobright.ai/jobs/info/69dd68f1bc6f6622c9912027?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Queens, NY | On Site | Apr 12 |
+| ↳ | **[Canvasser - Brooklyn](https://jobright.ai/jobs/info/69dd6adf738f2f099e8b6119?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | Apr 12 |
 | ↳ | **[Canvasser - Bronx](https://jobright.ai/jobs/info/69dd68f3f748bc5d08a5fa5f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bronx, NY | On Site | Apr 12 |
 | ↳ | **[Canvasser - Westchester](https://jobright.ai/jobs/info/69dd6ad75356a60f40fedfcf?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, New York, United States | On Site | Apr 12 |
-| ↳ | **[Canvasser - Queens](https://jobright.ai/jobs/info/69dd68f1bc6f6622c9912027?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Queens, NY | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
