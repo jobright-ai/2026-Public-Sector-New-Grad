@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Region of Peel](http://peelregion.ca)** | **[Administrative Service Representative - Housing Services](https://jobright.ai/jobs/info/69fdff16f363bc4dc339af7e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | UNAVAILABLE, ON, CA | Hybrid | May 08 |
+| **[LMI](http://www.lmi.org)** | **[Health Policy Analyst](https://jobright.ai/jobs/info/69fdfefe4b9bbf21744adbcc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-Remote | Remote | May 08 |
+| ↳ | **[Health Policy Analyst](https://jobright.ai/jobs/info/69fdfefe7714cd50b90fd751?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | May 08 |
 | **[Forterra](https://www.forterra.com)** | **[Mission Analyst, Strategy](https://jobright.ai/jobs/info/69e1d4596c20aa11495432c1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Arlington, VA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Electronic Birth Certificate Coordinator - Per Diem Days (7am-3:30pm)](https://jobright.ai/jobs/info/69fd858f7714cd50b90fb52a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Hackensack, NJ, US | On Site | May 07 |
 | ↳ | **[COMMUNITY ENGAGEMENT ASSISTANT](https://jobright.ai/jobs/info/69fd6ba2ad691a11f34e98ba?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Alexandria, VA, US | Hybrid | May 07 |
@@ -252,8 +255,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Developmental Disabilities Service Coordinator - Ogallala](https://jobright.ai/jobs/info/69fa9f9d86d5cd46527cf37f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ogallala, NE | On Site | May 03 |
 | ↳ | **[Developmental Disabilities Service Coordinator - Hastings](https://jobright.ai/jobs/info/69faaa537800004087b437b7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Hastings, NE | On Site | May 03 |
 | ↳ | **[Developmental Disabilities Service Coordinator - Crete](https://jobright.ai/jobs/info/69fa9faad21cf86d1e3cc18a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Crete, NE | On Site | May 03 |
-| ↳ | **[Developmental Disabilities Service Coordinator - Scottsbluff or Sidney](https://jobright.ai/jobs/info/69fac2afe156000841153464?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sidney, NE | On Site | May 03 |
 | ↳ | **[Developmental Disabilities Service Coordinator - Fremont](https://jobright.ai/jobs/info/69fab4f987a4820e6da81b0f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Fremont, CA | On Site | May 03 |
+| ↳ | **[Developmental Disabilities Service Coordinator - Scottsbluff or Sidney](https://jobright.ai/jobs/info/69fac2afe156000841153464?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sidney, NE | On Site | May 03 |
 | ↳ | **[Developmental Disabilities Service Coordinator - Lincoln](https://jobright.ai/jobs/info/69faa4bddd1a797969e70416?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | May 03 |
 | **[PATH](https://www.epath.org/)** | **[Domestic Violence Coordinator (JR 5533)](https://jobright.ai/jobs/info/69ec0ac4dc35f7132c4b5487?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles County | On Site | May 03 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Medicaid Eligibility Advocate](https://jobright.ai/jobs/info/69faa9537800004087b435cd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Elko, NV | On Site | May 03 |
@@ -280,6 +283,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Staff Analyst Trainee Series - Security](https://jobright.ai/jobs/info/69f5a02343a25828a8d19369?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Brooklyn, NY | On Site | May 01 |
 | **[Leidos](https://www.leidos.com)** | **[Research Department Coordinator - New Grad (BS/BA) / Entry Level](https://jobright.ai/jobs/info/69f557db43a25828a8d185f2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New London County, CT | On Site | May 01 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Clinical Research Coordinator-Alzheimer's Disease Research Center (ADRC)](https://jobright.ai/jobs/info/69f574c043a25828a8d18df5?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | May 01 |
-| **[ICF](https://www.icf.com)** | **[Program Business Analyst HEALTH PROGRAM (Maine, Massachusetts, Vermont REMOTE)](https://jobright.ai/jobs/info/69f551f70b36ff0354751904?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Burlington, VT | Remote | May 01 |
-| ↳ | **[Program Business Analyst HEALTH PROGRAM (Maine, Massachusetts, Vermont REMOTE)](https://jobright.ai/jobs/info/69f551f912f2811ab5a64398?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Portland, ME | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
