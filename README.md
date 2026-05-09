@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Program Associate, Democracy Initiatives](https://jobright.ai/jobs/info/69ff896474b5407dd46755ca?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY | On Site | May 09 |
 | **[KPMG Canada](https://kpmg.com/ca/en.html)** | **[Junior Content & Knowledge Management Analyst -  Federal Government Centre of Excellence](https://jobright.ai/jobs/info/69c769101818a24cd84ce0a4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ottawa, Ontario, Canada | On Site | May 09 |
 | **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Advocacy Volunteer Specialist](https://jobright.ai/jobs/info/69fb0fb787a4820e6da84580?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Case Aide (Part Time)](https://jobright.ai/jobs/info/69feb81715859e57591cf2da?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Moreno Valley, CA, US | On Site | May 08 |
