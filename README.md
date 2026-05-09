@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Grant and RFP Assistant](https://jobright.ai/jobs/info/69fe65d5f363bc4dc339e7ca?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tacoma, WA, US | Hybrid | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Community Engagement Coordinator](https://jobright.ai/jobs/info/69fe7ea74b9bbf21744b1d65?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Philadelphia, PA, US | Hybrid | May 08 |
+| ↳ | **[Grant and RFP Assistant](https://jobright.ai/jobs/info/69fe65d5f363bc4dc339e7ca?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tacoma, WA, US | Hybrid | May 08 |
 | **[Perdue Brandon Fielder Collins & Mott, LLP](https://www.pbfcm.com/)** | **[Special District Report Writer](https://jobright.ai/jobs/info/69fe63057714cd50b9100a7b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Houston,TX,US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Human Services Assistant II - Part-Time](https://jobright.ai/jobs/info/69fe627b4b9bbf21744b11bc?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Bedford, VA, US | On Site | May 08 |
 | **[Institute for Higher Education Policy](https://www.ihep.org)** | **[Research Analyst](https://jobright.ai/jobs/info/69fe61114b9bbf21744b1046?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Remote - Washington, DC | Remote | May 08 |
@@ -281,8 +282,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Developmental Disabilities Service Coordinator - Ogallala](https://jobright.ai/jobs/info/69fa9f9d86d5cd46527cf37f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Ogallala, NE | On Site | May 03 |
 | ↳ | **[Developmental Disabilities Service Coordinator - Hastings](https://jobright.ai/jobs/info/69faaa537800004087b437b7?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Hastings, NE | On Site | May 03 |
 | ↳ | **[Developmental Disabilities Service Coordinator - Crete](https://jobright.ai/jobs/info/69fa9faad21cf86d1e3cc18a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Crete, NE | On Site | May 03 |
-| ↳ | **[Developmental Disabilities Service Coordinator - Fremont](https://jobright.ai/jobs/info/69fab4f987a4820e6da81b0f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Fremont, CA | On Site | May 03 |
 | ↳ | **[Developmental Disabilities Service Coordinator - Scottsbluff or Sidney](https://jobright.ai/jobs/info/69fac2afe156000841153464?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sidney, NE | On Site | May 03 |
+| ↳ | **[Developmental Disabilities Service Coordinator - Fremont](https://jobright.ai/jobs/info/69fab4f987a4820e6da81b0f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Fremont, CA | On Site | May 03 |
 | ↳ | **[Developmental Disabilities Service Coordinator - Lincoln](https://jobright.ai/jobs/info/69faa4bddd1a797969e70416?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lincoln, NE | On Site | May 03 |
 | **[PATH](https://www.epath.org/)** | **[Domestic Violence Coordinator (JR 5533)](https://jobright.ai/jobs/info/69ec0ac4dc35f7132c4b5487?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Los Angeles County | On Site | May 03 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Medicaid Eligibility Advocate](https://jobright.ai/jobs/info/69faa9537800004087b435cd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Elko, NV | On Site | May 03 |
