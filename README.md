@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Planner/Siting Specialist](https://jobright.ai/jobs/info/69e19e2bfd1c0456f3faf112?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Toledo, OH | On Site | May 30 |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Assistant/Associate (Junior/Assistant/Associate Specialist) - California Policy Lab](https://jobright.ai/jobs/info/6a1b1f7c6b135014dbc8daa4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | California, United States | Hybrid | May 30 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Research Coordinator - Full-Time](https://jobright.ai/jobs/info/69f3892258b23a2329da53f6?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Baton Rouge, Louisiana, United States | On Site | May 30 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Planner/Siting Specialist](https://jobright.ai/jobs/info/69e1ae8fd612782e61149dad?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Cleveland, OH | On Site | May 30 |
 | ↳ | **[Early Career Planner/Siting Specialist](https://jobright.ai/jobs/info/69e1ae27acc736112f5c4dc2?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Lexington, KY | On Site | May 30 |
@@ -133,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Assistant: Foreign and Defense Policy; Demographics and Political Economy](https://jobright.ai/jobs/info/6a185d02dbc80963f934311b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Research Assistant, Health Care and Budget Policy](https://jobright.ai/jobs/info/6a185cf7abc8f63abac77b3d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Research Assistant, Economic Policy Studies](https://jobright.ai/jobs/info/6a185ce46243320e8d163890?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC, US | On Site | May 28 |
-| ↳ | **[Research Assistant, Education Policy Studies](https://jobright.ai/jobs/info/6a185ce3abc8f63abac77b11?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Research Assistant, Economic Policy Studies](https://jobright.ai/jobs/info/6a185ce36243320e8d16388e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-DC-Washington | On Site | May 28 |
+| ↳ | **[Research Assistant, Education Policy Studies](https://jobright.ai/jobs/info/6a185ce3abc8f63abac77b11?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-DC-Washington | On Site | May 28 |
 | ↳ | **[Research Assistant, Education Policy Studies](https://jobright.ai/jobs/info/6a185ce2abc8f63abac77b0e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Iran Analyst, Critical Threats Project](https://jobright.ai/jobs/info/6a185cda17492d3a389b5469?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC, US | On Site | May 28 |
 | ↳ | **[Iran Analyst, Critical Threats Project](https://jobright.ai/jobs/info/6a185cda17492d3a389b546a?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | US-DC-Washington | On Site | May 28 |
