@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hillsborough County](https://hcfl.gov)** | **[Program Coordinator (Parks & Recreation)](https://jobright.ai/jobs/info/6a3462cb649fdf16292f5b6c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | 6105 E Sligh Ave, Tampa, FL, 33617, US | On Site | Jun 18 |
 | **[Dairy Management Inc.](https://www.usdairy.com/)** | **[Analyst, Sustainability Programs](https://jobright.ai/jobs/info/6a345f78f6b55d12c791c855?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, Illinois, United States | Remote | Jun 18 |
 | **[The Management Trust](http://managementtrust.com)** | **[ASSISTANT COMMUNITY ASSOCIATION MANAGER](https://jobright.ai/jobs/info/6a221941902d19201c7bc0ce?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Houston, TX 77036, USA | On Site | Jun 18 |
 | **[Lawyers On Demand](https://lodlaw.com/)** | **[Temporary / Business Immigration Analyst, DC](https://jobright.ai/jobs/info/6a3455c8649fdf16292f5633?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC | Hybrid | Jun 18 |
@@ -85,10 +86,10 @@ For a complete list, click the following sortable link below:
 | **[TeleSolv Consulting](https://telesolvconsulting.pinpointhq.com/en)** | **[Administrative Clerk](https://jobright.ai/jobs/info/699763ecce78e77b4fdbbc32?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Atlanta, GA | On Site | Jun 18 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399677f3fdd180d4c7243?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, D.C., United States | On Site | Jun 18 |
 | ↳ | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399667f3fdd180d4c7242?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Chicago, United States | On Site | Jun 18 |
-| ↳ | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399657f3fdd180d4c723f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas, United States | On Site | Jun 18 |
-| ↳ | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399657f3fdd180d4c723e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, United States | On Site | Jun 18 |
 | ↳ | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399657f3fdd180d4c7240?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, United States | On Site | Jun 18 |
 | ↳ | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399657f3fdd180d4c7241?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Detroit, United States | On Site | Jun 18 |
+| ↳ | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399657f3fdd180d4c723e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Boston, United States | On Site | Jun 18 |
+| ↳ | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399657f3fdd180d4c723f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dallas, United States | On Site | Jun 18 |
 | ↳ | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399647f3fdd180d4c723d?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Toronto, Canada | On Site | Jun 18 |
 | ↳ | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399577f3fdd180d4c723c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Americas-United States | Hybrid | Jun 18 |
 | **[Rhode Island Department of Corrections](https://doc.ri.gov/)** | **[CLERK SECRETARY](https://jobright.ai/jobs/info/6a3373d7f6b55d12c7918f31?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Wakefield, US | On Site | Jun 17 |
