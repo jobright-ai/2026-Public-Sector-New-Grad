@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Padmore Global Connections](www.pgc-connect.com)** | **[Medicaid Enrollment Specialist](https://jobright.ai/jobs/info/6a521139e726ec56126a165e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Indianapolis, IN, United States | On Site | Jul 11 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research Assistant: Foreign and Defense Policy; US Foreign Policy](https://jobright.ai/jobs/info/6a5202b678e364789ca5f1b8?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC, United States | On Site | Jul 11 |
 | **[Kindbridge Research Institute](https://kindbridgeinstitute.org)** | **[Research Analyst, Massachusetts Research & Education Collaborative](https://jobright.ai/jobs/info/6a3f139a4d047136e0938b6f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Massachusetts, United States | Remote | Jul 10 |
 | **[Kearney](https://www.jp.kearney.com/)** | **[Kearney Foresight Business Analyst](https://jobright.ai/jobs/info/6a3399577f3fdd180d4c723c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Americas-United States | Remote | Jul 10 |
@@ -236,5 +237,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[ADMINISTRATIVE ASSISTANT I - 80047303 Job Details / State of Florida](https://jobright.ai/jobs/info/6a49aa93971cd25b06f95c59?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | TALLAHASSEE, FL, US, 32311 | On Site | Jul 04 |
 | ↳ | **[GOVERNMENT OPERATIONS CONSULTANT I - 37010975 Job Details / State of Florida](https://jobright.ai/jobs/info/6a49aa655d7b097d2df3b9e1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | TALLAHASSEE, FL, US, 32399 | On Site | Jul 04 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Clinical Research Coordinator - Open Rank](https://jobright.ai/jobs/info/6a3c320d982bb239f812eb74?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Worcester, MA, US | On Site | Jul 04 |
-| **[Capital Rx](https://www.judi.health)** | **[Government Program Operations Specialist](https://jobright.ai/jobs/info/6a494b4d971cd25b06f9527c?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
