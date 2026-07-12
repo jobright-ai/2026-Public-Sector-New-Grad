@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, China Strategy Initiative](https://jobright.ai/jobs/info/6a52e23ce726ec56126a4e88?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC, United States | Hybrid | Jul 11 |
+| **[National Governors Association](http://www.nga.org/cms/home.html)** | **[Policy Analyst (Public Safety and Legal Counsels)](https://jobright.ai/jobs/info/6a52dc1a8576ec69c014db82?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC, United States | On Site | Jul 11 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Research and Writing Assistant to AEI President Robert Doar](https://jobright.ai/jobs/info/6a52b5409fbdab22fe13cad1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | DC, United States | On Site | Jul 11 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Research Associate, Greenberg Center for Geoeconomics](https://jobright.ai/jobs/info/6a52b4e3d007ee02d95f8b06?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | New York, NY, United States | Hybrid | Jul 11 |
 | **[Sciolex Corporation](http://www.sciolex.com)** | **[Administrative Clerk](https://jobright.ai/jobs/info/6a52b2e28a74e077472f5aef?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Houston, TX, United States | On Site | Jul 11 |
