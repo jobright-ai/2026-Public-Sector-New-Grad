@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inter-Con Security](http://www.icsecurity.com)** | **[D.C. Administrative Position (70891)](https://jobright.ai/jobs/info/6a53fd38c8eb0843027ae679?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC, United States | On Site | Jul 12 |
 | **[Padmore Global Connections](www.pgc-connect.com)** | **[Medicaid Enrollment Specialist](https://jobright.ai/jobs/info/6a53f1508576ec69c0151731?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Indianapolis, Indiana, United States | On Site | Jul 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Planner/Siting Specialist](https://jobright.ai/jobs/info/69e1494cff71e82d604b639e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | 312 Elm Street, Cincinnati, OH, 45202, US | On Site | Jul 12 |
 | ↳ | **[Early Career Planner/Siting Specialist](https://jobright.ai/jobs/info/69e1ae8fd612782e61149dae?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Indianapolis, IN, United States | On Site | Jul 12 |
