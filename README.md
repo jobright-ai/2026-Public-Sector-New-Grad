@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Planner/Siting Specialist](https://jobright.ai/jobs/info/69e1494cff71e82d604b639e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | 312 Elm Street, Cincinnati, OH, 45202, US | On Site | Jul 12 |
+| ↳ | **[Early Career Planner/Siting Specialist](https://jobright.ai/jobs/info/6a3921fc1232144fb1569bdd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Dayton, OH, United States | On Site | Jul 12 |
 | **[DRT Strategies](http://drtstrategies.com)** | **[Program Analyst](https://jobright.ai/jobs/info/6a5384618ef95364ead9264b?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Palo Alto, CA, United States | On Site | Jul 12 |
 | **[ORC](http://orcolan.com)** | **[Utilities Right of Way Document Specialist - Remote](https://jobright.ai/jobs/info/6a5269df8576ec69c014bc9f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | United States | Remote | Jul 12 |
 | **[Elizabeth Seton Children’s](https://setonchildrens.org/)** | **[Administrative Assistant of Social Work ESCR White Plains Campus](https://jobright.ai/jobs/info/6a32c3d4649fdf16292ee7b1?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | White Plains, NY, United States | On Site | Jul 12 |
