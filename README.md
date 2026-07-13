@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Passavant Memorial Homes](http://www.passavant.org)** | **[Program Coordinator - Home and Community Services](https://jobright.ai/jobs/info/6a54109c8576ec69c0151dee?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Westmoreland County, PA, United States | On Site | Jul 12 |
 | **[Inter-Con Security](http://www.icsecurity.com)** | **[D.C. Administrative Position (70891)](https://jobright.ai/jobs/info/6a53fd38c8eb0843027ae679?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Washington, DC, United States | On Site | Jul 12 |
 | **[Padmore Global Connections](www.pgc-connect.com)** | **[Medicaid Enrollment Specialist](https://jobright.ai/jobs/info/6a53f1508576ec69c0151731?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Indianapolis, Indiana, United States | On Site | Jul 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Planner/Siting Specialist](https://jobright.ai/jobs/info/69e1494cff71e82d604b639e?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | 312 Elm Street, Cincinnati, OH, 45202, US | On Site | Jul 12 |
@@ -260,5 +261,4 @@ For a complete list, click the following sortable link below:
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Permitting Analyst I](https://jobright.ai/jobs/info/6a4b6aae971cd25b06f976bd?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Sacramento County | Hybrid | Jul 06 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Child Development Center Secretary SUBSTITUTE](https://jobright.ai/jobs/info/6a4bd3765d7b097d2df3e54f?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Livingston, CA, United States | On Site | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Staff Services Analyst I/II (Full Time)](https://jobright.ai/jobs/info/6a509cd52e2ceb72963b35d0?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Merced | On Site | Jul 06 |
-| **[RTX](http://rtx.com/)** | **[Analyst - Program Security - Tucson, AZ](https://jobright.ai/jobs/info/6a5337968576ec69c014f0e4?utm_campaign=Public%20Sector%20and%20Government&utm_source=1103)** | Tucson, AZ, United States | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
