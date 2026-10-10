@@ -50,6 +50,12 @@ For a complete list, click the following sortable link below:
 </div>
 
 ---
+
+## Related Canada resource
+
+- [Hanzilla Jobs – Canadian student and new-grad jobs](https://jobs.hanzilla.co/arts/) — free, daily-updated listings for Canadian students and recent graduates looking for policy/government, nonprofit/community, research, communications, internships/co-ops, new-grad, junior, and entry-level roles across fields.
+
+---
 ## Daily Job List  🌐 🧭 🏆
 
 
